@@ -1,0 +1,49 @@
+body {
+    background-color: #E6B5C7;
+}
+
+.brr h2 {
+    color: #EA1c2c;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.brr p {
+    color: #AD3D61;
+    font-size: 1.125rem;
+    font-weight: 100;
+    line-height: 2;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+h1 span {
+    color: #EA1C2C;
+}
+
+nav {
+    background-color: plum;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+#headinggroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+@media (max-width: 1200px) {
+    #headinggroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+}
